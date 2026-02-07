@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Interfaz\ActualizarCantidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\AgregarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\Bienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\DetalleTurno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\Devoluciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\HistorialTurnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\Informes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\Inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\MesasActivas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\RegistrarVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\TurnoActual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
